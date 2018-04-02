@@ -1,0 +1,10 @@
+version: '3.2'
+
+services:
+  simple_web_api:
+    image: simplewebapi
+    build:
+      context: .
+      dockerfile: Simple_Web_Api/Dockerfile
+#    ports:
+#        - "6000:80"

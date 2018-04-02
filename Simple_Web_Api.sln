@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Web_Api", "Simple_Web_Api\Simple_Web_Api.csproj", "{F42F451E-161C-4A28-B7EF-54E080031F29}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{9B4843D0-ECF8-43B4-8C25-6ACB22D688E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E30E0FB6-C8E5-4B1A-8F83-4DE9561BB360}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42F451E-161C-4A28-B7EF-54E080031F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42F451E-161C-4A28-B7EF-54E080031F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42F451E-161C-4A28-B7EF-54E080031F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42F451E-161C-4A28-B7EF-54E080031F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4843D0-ECF8-43B4-8C25-6ACB22D688E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4843D0-ECF8-43B4-8C25-6ACB22D688E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4843D0-ECF8-43B4-8C25-6ACB22D688E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4843D0-ECF8-43B4-8C25-6ACB22D688E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
